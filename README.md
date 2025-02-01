@@ -7,6 +7,9 @@ Tuve problemas con mi navegador, por alguna razón nunca pude vaciar la caché a
 
 Traté de hacer el programa según lo que se pidió y sigo entendiendo conceptos aún, es muy grande javascript pero gracias a Gonzalo pude entender muchas cosas que por cuenta propia hubiera sido mas complicado entender, es un trampolin para poder indagar mas allá...
 
+Lo que se solicitó fue:
+https://github.com/UDDBootcamp/7M_FULLSTACK_M2_PROY
+
 Bases para el aprendizaje:
 
 chat-gpt 4o (corrigió errores)
